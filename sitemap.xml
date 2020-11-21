@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bokbutcode.github.io/categories/Data%20Structures.html</loc>
+    
+    <lastmod>2020-11-21T16:28:53.458Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bokbutcode.github.io/2020/11/21/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/</loc>
+    
+    <lastmod>2020-11-21T16:28:53.457Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://bokbutcode.github.io/categories/index.html</loc>
     
     <lastmod>2020-05-15T03:17:08.545Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://bokbutcode.github.io/tags/index.html</loc>
     
     <lastmod>2020-05-15T03:16:28.225Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://bokbutcode.github.io/2020/05/15/hello-world/</loc>
-    
-    <lastmod>2020-05-15T03:09:20.941Z</lastmod>
     
   </url>
   
